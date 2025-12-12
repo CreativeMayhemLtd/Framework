@@ -19,7 +19,7 @@ Most digital projects die in the "Infrastructure Trap." Teams spend months build
 When we deploy Framework for your project, it comes pre-loaded with six critical modules that are fully integrated and production-ready:
 
 ### 1. Instant Economy (Monetization)
-A complete, pre-built ledger for credit-based or subscription economies. Whether you need public-facing monetization (via Lemon Squeezy) or internal cost allocation, Framework handles the math, tax compliance, and invoice generation automatically.
+A complete, pre-built ledger for credit-based or subscription economies. Whether you need public-facing monetization or internal cost allocation, Framework handles the math, tax compliance, and invoice generation automatically.
 
 ### 2. Fortress Compliance (GDPR)
 Privacy is hard-coded into the container. Framework includes a fully automated **GDPR Self-Service Portal**, allowing users to manage their data rights, request archives, and execute "Right to be Forgotten" protocols without burdening your support team.
